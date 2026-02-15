@@ -51,7 +51,7 @@
 								<recipeUsers>
 									<li>TableMachining</li>
 								</recipeUsers>
-								<researchPrerequisite>VWE_TacticalGrenades</researchPrerequisite>
+								<researchPrerequisite>SmokepopBelt</researchPrerequisite>
 								<useIngredientsForColor>false</useIngredientsForColor>
 								<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
 								<workSkill>Crafting</workSkill>
@@ -197,7 +197,7 @@
 								<recipeUsers>
 									<li>TableMachining</li>
 								</recipeUsers>
-								<researchPrerequisite>VWE_TacticalGrenades</researchPrerequisite>
+								<researchPrerequisite>MicroelectronicsBasics</researchPrerequisite>
 								<useIngredientsForColor>false</useIngredientsForColor>
 								<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
 								<workSkill>Crafting</workSkill>
